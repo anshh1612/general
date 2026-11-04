@@ -8,3 +8,6 @@ int subtract(int n1, int n2) {
     else
         return 0;
 }
+
+// Logic a - b = a+(-b) 
+// so ~ + 1 , gives the number in bitwise
